@@ -12,7 +12,7 @@ To know more about me:
 
 Want to have a chat?
 - I'm always open for interesting conversations. If you are interested in MLOps or machine learning in general, feel free to get in touch!
-- I'm best reached via [email](trung.tin.nguyen0309@gmail.com)
+- I'm best reached via [email](mailto:trung.tin.nguyen0309@gmail.com)
 
 <!--
 **tintn/tintn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

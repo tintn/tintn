@@ -5,7 +5,7 @@ Hi, I'm Tin Nguyen
 I'm a Machine Learning (ML)/Deep Learning (DL) Engineer and a Physicist.
 
 - 🔭 I'm currently a ML engineer at Firevisor Systems where I'm in charge of both developing detection models and building ML systems on production.
-- 🌱 My current interest is MLOps and filling the production gap in ML applications. Personally experienced the pain of getting models to production and maintaining them, the problems inspire my interest of ML systems in production and how to better design them.
+- 🌱 My current interest is MLOps and filling the production gap in ML applications. Personally experienced the pain of getting models to production and maintaining them, the problems inspire my interest in ML systems in production and how to better design them.
 To know more about me:
 - [Linkedin](https://www.linkedin.com/in/trung-tin-nguyen/)
 

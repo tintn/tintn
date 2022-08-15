@@ -8,6 +8,7 @@ I'm a Machine Learning (ML)/Deep Learning (DL) Engineer and a Physicist.
 - 🌱 My current interest is MLOps and filling the production gap in ML applications. Personally experienced the pain of getting models to production and maintaining them, the problems inspire my interest in ML systems in production and how to better design them.
 
 To know more about me:
+- [Website](https://tintn.github.io/)
 - [Linkedin](https://www.linkedin.com/in/trung-tin-nguyen/)
 
 Want to have a chat?

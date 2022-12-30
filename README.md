@@ -4,7 +4,6 @@ Hi, I'm Tin Nguyen
 
 I'm a Machine Learning (ML)/Deep Learning (DL) Engineer and a Physicist.
 
-- 🔭 I'm currently a ML engineer at Firevisor Systems where I'm responsible for developing models for defect detection from solar panels. I'm also leading the development of the company's inference system to serve DL models on-premise and in the cloud.
 - 🌱 My current interest is MLOps and filling the production gap in ML applications. Personally experienced the pain of getting models to production and maintaining them, the problems inspire my interest in ML systems in production and how to better design them.
 - ✏️ I recently started writing. I write about my learning and my experience. Check it out [here](https://tintn.github.io/posts/)
 

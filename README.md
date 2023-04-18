@@ -6,7 +6,7 @@ I'm a Machine Learning (ML)/Deep Learning (DL) Engineer and a Physicist.
 
 - 🌱 My current interest is MLOps and filling the production gap in ML applications. I have experienced the frustration of getting models to production and maintaining them, the problems inspire my curiosity in production ML systems and how to better design them.
 
-- ✏️ I also write about my learning and experience. Check it out in [My Website](https://tintn.github.io/posts/) or [Medium](https://medium.com/@tintn03)
+- ✏️ I also write about my learning and experience. Check it out in my [Website](https://tintn.github.io/posts/) or [Medium](https://medium.com/@tintn03)
 
 To know more about me:
 - [Website](https://tintn.github.io/)
